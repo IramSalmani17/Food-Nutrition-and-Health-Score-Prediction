@@ -1,8 +1,8 @@
 # Food Nutrition & Health Score Prediction System
-Machine Learning based web application that classifies food items as Healthly, Moderate, or Unhealthly using nutritional values. The model is built using Scikit-learn and deployed using Falsk on AWS EC2(Ubuntu).
+A Machine Learning-based web application that classifies food items into Healthy, Moderate, or Unhealthy categories based on nutritional values. The project leverages data preprocessing, feature engineering, Support Vector Machine (SVM) classification, and Flask deployment on AWS EC2 (Ubuntu) to provide real-time predictions.
 
 ## Project Objective
-To develop a machine learning system that analyzes nutritional values and predicts the health category of food items, helping users make informed dietary choices.
+To develop an intelligent nutrition analysis system that helps users evaluate food quality using nutritional attributes and machine learning techniques.
 
 ## Project Workflow
 
