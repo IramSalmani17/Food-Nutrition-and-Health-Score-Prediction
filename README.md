@@ -1,8 +1,20 @@
 # Food Nutrition & Health Score Prediction System
-Machine Learning based web application that classifies food items as Healthly, Moderate, or Unhealthly using nutritional values. the model is built using Scikit-learn and deployed using Falsk on AWS EC2(Ubuntu).
+Machine Learning based web application that classifies food items as Healthly, Moderate, or Unhealthly using nutritional values. The model is built using Scikit-learn and deployed using Falsk on AWS EC2(Ubuntu).
 
 ## Project Objective
 To develop a machine learning system that analyzes nutritional values and predicts the health category of food items, helping users make informed dietary choices.
+
+## Project Workflow
+
+- Data Collection
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- SVM Model Training
+- Hyperparameter Tuning using GridSearchCV
+- Model Evaluation
+- Flask Deployment
+- AWS EC2 Hosting
 
 ## Technologies Used
 - Python
@@ -12,21 +24,22 @@ To develop a machine learning system that analyzes nutritional values and predic
 - Flask
 - AWS EC2
 - Ubuntu
-- HTML/CSS
+- HTML
 
 ## Features
 - Data preprocessing and EDA
 - Feature engineering
 - SVM Classification
 - GridSearchCV optimization
-- Flask web application
-- AWS EC2 deployment
+- Flask web application - AWS EC2 deployment
 
 ## Deployment
 The application was deployed on an AWS EC2 Ubuntu instance using Flask for real-time prediction and user interaction.
 
 ## Model Performance
+- Model: Support Vector Machine (SVM)
 - Accuracy: 98%
+- Optimization: GridSearchCV
 
 ## Project Files
 - Jupyter Notebook
@@ -37,4 +50,6 @@ The application was deployed on an AWS EC2 Ubuntu instance using Flask for real-
 - Presentation
 
 ## Author
-Iram Salmani
+**Iram Salmani**
+- Data Analyst & Data Science Enthusiast
+- Skilled in Python, SQL, Power BI, Machine Learning, and Flask
