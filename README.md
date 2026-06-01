@@ -1,5 +1,5 @@
 # Food Nutrition & Health Score Prediction System
-A Machine Learning-based web application that classifies food items into Healthy, Moderate, or Unhealthy categories based on nutritional values. The project leverages data preprocessing, feature engineering, Support Vector Machine (SVM) classification, and Flask deployment on AWS EC2 (Ubuntu) to provide real-time predictions.
+A Machine Learning-based web application that classifies food items into Healthy, Moderate, or Unhealthy categories using nutritional values. The project uses Support Vector Machine (SVM) classification, feature engineering, Flask deployment, and AWS EC2 hosting for real-time food health prediction.
 
 ## Project Objective
 To develop an intelligent nutrition analysis system that helps users evaluate food quality using nutritional attributes and machine learning techniques.
@@ -26,12 +26,14 @@ To develop an intelligent nutrition analysis system that helps users evaluate fo
 - Ubuntu
 - HTML
 
-## Features
-- Data preprocessing and EDA
-- Feature engineering
+## Key Features
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
 - SVM Classification
-- GridSearchCV optimization
-- Flask web application - AWS EC2 deployment
+- GridSearchCV Hyperparameter Tuning
+- Flask Web Application
+- AWS EC2 Deployment
+- Real-Time Prediction System
 
 ## Deployment
 The application was deployed on an AWS EC2 Ubuntu instance using Flask for real-time prediction and user interaction.
